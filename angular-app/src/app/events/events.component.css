@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500,600,700,800');
+
+.owlh2{
+    position: absolute;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    max-width: 100%;
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+}
+
+.owlh2 {
+    z-index: 5;
+    top: 40%;
+}
+
+#footer h3 {
+    text-align: center;
+    font-size: 1rem;
+    padding: 1rem;
+    font-weight: 500;
+    color: #fff;
+    background: rgb(21, 46, 148);
+  }
